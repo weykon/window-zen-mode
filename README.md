@@ -1,4 +1,7 @@
 # Window Zen Mode README
+
+> [market](https://marketplace.visualstudio.com/items?itemName=Weykon.window-zen-mode) | [github repo](https://github.com/weykon/window-zen-mode.git)  
+
 This extension can toggle zen mode at windowed.
 ## The first time to use: 
 

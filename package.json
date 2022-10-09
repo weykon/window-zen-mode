@@ -3,13 +3,29 @@
   "displayName": "window-zen-mode",
   "description": "zen mode as windowed",
   "version": "0.0.1",
-  "publisher": "weykon",
+  "publisher": "Weykon",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "author": "weykon <635883092@qq.com> (http://github.com/weykon/)",
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weykon/window-zen-mode.git"
+  },
+  "homepage": "https://github.com/weykon/window-zen-mode/blob/main/README.md",
   "license": "Apache-2.0",
   "categories": [
-    "Other"
+    "Snippets",
+    "Themes"
+  ],
+  "bugs": {
+    "url": "https://github.com/weykon/window-zen-mode/issues",
+    "email": "635883092@qq.com"
+  },
+  "keywords": [
+    "zen mode",
+    "window"
   ],
   "activationEvents": [
     "onCommand:window-zen-mode.windowZenMode"
