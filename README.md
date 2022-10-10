@@ -2,6 +2,8 @@
 
 > [market](https://marketplace.visualstudio.com/items?itemName=Weykon.window-zen-mode) | [github repo](https://github.com/weykon/window-zen-mode.git)  
 
+> I don't know the config exist before, it's the similar doing the same thing with setting <u>"zenMode.fullScreen": false</u> in setting.json.
+
 This extension can toggle zen mode at windowed.
 ## The first time to use: 
 
