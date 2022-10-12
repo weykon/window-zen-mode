@@ -2,7 +2,7 @@
   "name": "window-zen-mode",
   "displayName": "window-zen-mode",
   "description": "zen mode as windowed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Weykon",
   "engines": {
     "vscode": "^1.72.0"
