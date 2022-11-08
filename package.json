@@ -2,7 +2,7 @@
   "name": "window-zen-mode",
   "displayName": "window-zen-mode",
   "description": "zen mode as windowed",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "Weykon",
   "engines": {
     "vscode": "^1.72.0"
@@ -36,6 +36,13 @@
       {
         "command": "window-zen-mode.windowZenMode",
         "title": "Window Zen Mode"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "window-zen-mode.windowZenMode",
+        "key": "ctrl+alt+k z",
+        "mac": "alt+cmd+k z"
       }
     ]
   },
